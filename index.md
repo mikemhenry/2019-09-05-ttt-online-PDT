@@ -13,7 +13,7 @@ etherpad: https://pad.carpentries.org/2019-09-05-ttt-online-PDT  # optional: URL
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
+    address: "https://carpentries.zoom.us/my/carpentriesroom1"
 
 ---
 
